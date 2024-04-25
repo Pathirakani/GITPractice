@@ -1,0 +1,23 @@
+
+
+XPATH
+
+-------------Select using text()-----------------
+
+Syntax:
+	//TagName[text()='Text to Find']
+
+Ex:
+	//span[text()='Estimate']
+
+-----------------------------------------------
+
+-------------Contains----------------------------
+
+Syntax:
+	//*[contains(@attribute, 'substring')]
+
+	
+Ex:
+		//*[contains(@id, 'header-icons')]
+		
