@@ -3,5 +3,6 @@ GIT Commands
 	If Git responds with a message saying it's not a git repository,
 		it means that the directory you're in isn't a Git repository, or it hasn't been initialized yet. 
 		To initialize a directory as a Git repository, you can use the git init command.
-	
-	
+
+2.Git init
+	This will make the current directory as git
